@@ -1,0 +1,8 @@
+*************************
+  Informe de ventas
+*************************
+-Cantidad de unidades vendidas totales: 1000
+-Cantidad de unidades con precio mayor a 100000: 683
+-Cantidad de unidades con precio mayor a 300000: 328
+-Cantidad de TVsLCD vendidos: 151
+*************************
